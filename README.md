@@ -1,26 +1,20 @@
-## Olá eu sou Gabriel Galhardo!
-<div align="center">
+<h1 align="center">Gabriel da Silva Castro Galhardo - Web Developer</h1>
+<br />
+<h4 align="center">Desenvolvedor frontend web, desenvolvimento ERP.</h4>
+
+<p align="center">
   <a href="https://github.com/GabrielGalhardo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielGalhardo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielGalhardo&layout=compact&langs_count=7&theme=dark"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" align="center" width="30" height="40"/>
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" align="center" width="30" height="40"/> 
-  
- 
- 
-</div>
-  
-  ##
- 
-<div> 
-  
-  <a href="https://www.linkedin.com/in/gabriel-galhardo-a3a113205" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-</div>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabrielGalhardo&theme=transparent" />
+  </a>
+  <a href="https://github.com/GabrielGalhardo">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielGalhardo&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+  <a href="https://github.com/GabrielGalhardo">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GabrielGalhardo&theme=transparent" />
+  </a>
+  <a href="https://github.com/GabrielGalhardo">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielGalhardo&card_width=699&hide_border=true&theme=transparent&hide=HTML,CSS" />
+  </a>
+  <br />
+  <a href="https://www.linkedin.com/in/gabriel-galhardo-a3a113205/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel-galhardo" height="30" width="40" /></a>
+</p>
